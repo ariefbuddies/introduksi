@@ -1,6 +1,7 @@
 ---
-title: "Photography"
-weight: 1
----
+title: Photography
+weight: "1"
 
-Kadang iseng memotret,untuk kesenangan belaka
+---
+* Kadang iseng memotret,untuk kesenangan belakangan
+* Cari duit
