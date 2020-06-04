@@ -9,4 +9,5 @@ fields:
   name: weight
   label: weight
 pages:
+- content/en/blog/aduhhh.md
 - content/en/proyek.md
