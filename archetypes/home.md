@@ -1,5 +1,5 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
-draft: true
+draft: false
 weight: 0
 ---
