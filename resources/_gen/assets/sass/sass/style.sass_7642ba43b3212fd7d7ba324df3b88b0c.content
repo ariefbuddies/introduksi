@@ -232,7 +232,7 @@ a {
   a strong {
     color: currentColor; }
   a:hover {
-    color: #000000; }
+    color: #ffffff; }
 
 code {
   background-color: #e5e1d6;
@@ -7082,7 +7082,7 @@ html.modal-open {
 a {
   color: #d41c00; }
   a:hover {
-    color: #000000;
+    color: #ffffff;
     font-style: none; }
   a:active {
     color: #d41c00; }
