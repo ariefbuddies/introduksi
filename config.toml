@@ -1,4 +1,4 @@
-baseURL                          = "https://introvert.now.sh/"
+baseURL                          = "https://introduksi.now.sh/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 enableEmoji                      = true
