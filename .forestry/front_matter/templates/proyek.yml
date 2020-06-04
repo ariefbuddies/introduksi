@@ -8,3 +8,5 @@ fields:
 - type: number
   name: weight
   label: weight
+pages:
+- content/en/proyek.md
