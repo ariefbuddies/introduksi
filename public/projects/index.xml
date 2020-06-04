@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on AriefB Intro</title>
+    <link>https://introvert.now.sh/projects/</link>
+    <description>Recent content in Projects on AriefB Intro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://introvert.now.sh/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photography</title>
+      <link>https://introvert.now.sh/projects/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://introvert.now.sh/projects/photography/</guid>
+      <description>Kadang iseng memotret,untuk kesenangan belaka</description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://introvert.now.sh/projects/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://introvert.now.sh/projects/design/</guid>
+      <description>Theme ini didesain oleh Victorian Drake maaf saya hanya memodifikasi 😢</description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://introvert.now.sh/projects/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://introvert.now.sh/projects/writing/</guid>
+      <description>Menulis?!?!? Ga banget deh 😢
+ </description>
+    </item>
+    
+  </channel>
+</rss>
