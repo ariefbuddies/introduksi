@@ -1,4 +1,4 @@
-baseURL                          = "https://introduksi.now.sh/"
+baseURL                          = "https://boring-thompson-f3381b.netlify.app/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 enableEmoji                      = true

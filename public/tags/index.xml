@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AriefB Intro</title>
-    <link>https://introduksi.now.sh/tags/</link>
+    <link>https://boring-thompson-f3381b.netlify.app/tags/</link>
     <description>Recent content in Tags on AriefB Intro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 May 2020 20:18:53 -0500</lastBuildDate>
     
-	<atom:link href="https://introduksi.now.sh/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://boring-thompson-f3381b.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>blog</title>
-      <link>https://introduksi.now.sh/tags/blog/</link>
+      <link>https://boring-thompson-f3381b.netlify.app/tags/blog/</link>
       <pubDate>Sat, 30 May 2020 20:18:53 -0500</pubDate>
       
-      <guid>https://introduksi.now.sh/tags/blog/</guid>
+      <guid>https://boring-thompson-f3381b.netlify.app/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>code</title>
-      <link>https://introduksi.now.sh/tags/code/</link>
+      <link>https://boring-thompson-f3381b.netlify.app/tags/code/</link>
       <pubDate>Sat, 30 May 2020 20:18:53 -0500</pubDate>
       
-      <guid>https://introduksi.now.sh/tags/code/</guid>
+      <guid>https://boring-thompson-f3381b.netlify.app/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ipsum</title>
-      <link>https://introduksi.now.sh/tags/ipsum/</link>
+      <link>https://boring-thompson-f3381b.netlify.app/tags/ipsum/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>https://introduksi.now.sh/tags/ipsum/</guid>
+      <guid>https://boring-thompson-f3381b.netlify.app/tags/ipsum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>words</title>
-      <link>https://introduksi.now.sh/tags/words/</link>
+      <link>https://boring-thompson-f3381b.netlify.app/tags/words/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>https://introduksi.now.sh/tags/words/</guid>
+      <guid>https://boring-thompson-f3381b.netlify.app/tags/words/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coffee</title>
-      <link>https://introduksi.now.sh/tags/coffee/</link>
+      <link>https://boring-thompson-f3381b.netlify.app/tags/coffee/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>https://introduksi.now.sh/tags/coffee/</guid>
+      <guid>https://boring-thompson-f3381b.netlify.app/tags/coffee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>images</title>
-      <link>https://introduksi.now.sh/tags/images/</link>
+      <link>https://boring-thompson-f3381b.netlify.app/tags/images/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>https://introduksi.now.sh/tags/images/</guid>
+      <guid>https://boring-thompson-f3381b.netlify.app/tags/images/</guid>
       <description></description>
     </item>
     
