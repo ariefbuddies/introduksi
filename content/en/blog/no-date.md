@@ -1,6 +1,7 @@
 ---
-title: "Undated post"
-tags: ["words"]
----
+title: Undated post
+tags:
+- words
 
-I was born yesterday, tomorrow.
+---
+Lawassss
