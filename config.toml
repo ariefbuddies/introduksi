@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-baseURL = "https://boring-thompson-f3381b.netlify.app/"
+baseURL = "https://quizzical-mahavira-8b6aff.netlify.app/"
 enableEmoji = true
 theme = "introduction"
 [languages.en]
