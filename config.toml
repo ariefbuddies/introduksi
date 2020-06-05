@@ -14,15 +14,15 @@ footerText = "Natura Est Deus In Rebus"
 [[menu.main]]
 name = "Projects"
 url = "/projects/"
-weight = 3
+weight = 2
 [[menu.main]]
 name = "Blog"
 url = "/blog/"
-weight = 1
+weight = 3
 [[menu.main]]
 name = "Home"
 url = "/"
-weight = 2
+weight = 1
 [params]
 dateFormat = "Jan 2, 2006"
 email = "ariefbuddies@qmail.id"
